@@ -2,6 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="theme.css">
+</head>
 <body>
 <h1>
 MY Portfolio</h1>
@@ -14,6 +15,5 @@ MY Portfolio</h1>
 
 
 
-</head>
-
+</body>
 </html>
